@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession of Edward Fitz-Harys, Esq. written with his own hand, and delivered to Dr. Hawkins, minister of the Tower, July 1, 1681, being the day of his execution : together with his last speech.</title>
+            <author>Fitzharris, Edward, 1648?-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39603</idno>
+            <idno type="STC">Wing F1093</idno>
+            <idno type="STC">ESTC R37824</idno>
+            <idno type="EEBO-CITATION">17060381</idno>
+            <idno type="OCLC">ocm 17060381</idno>
+            <idno type="VID">105846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105846)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1615:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession of Edward Fitz-Harys, Esq. written with his own hand, and delivered to Dr. Hawkins, minister of the Tower, July 1, 1681, being the day of his execution : together with his last speech.</title>
+                  <author>Fitzharris, Edward, 1648?-1681.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:105846:1"/>
+            <pb n="1" facs="tcp:105846:1"/>
+            <head>The Confeſſion of <hi>Edward Fitz-Harys</hi> Eſquire, Written with his own Hand, and delivered to Dr. <hi>Hawkins</hi> Miniſter of the <hi>Tower, July 1. 1681.</hi> being the day of his Execution: Together with his laſt Speech.</head>
+            <floatingText type="letter">
+               <body>
+                  <p>I <hi>Edward Fitzharys,</hi> having been Indicted of High Treaſon, for endeavouring to dethrone the KING, was thereupon found Guilty, and Sentence of Death paſſed upon me. I the aforeſaid <hi>Edward Fitz-harys</hi> do voluntarily and freely, with<g ref="char:EOLhyphen"/>out any hopes to ſave my Life, but as a Dying Man, and to diſcharge my Conſcience towards God, and for the better ſa<g ref="char:EOLhyphen"/>tisfaction of the World, make this Declaration following, in the preſence of God, and unto Doctor <hi>Francis Hawkins,</hi> Chap<g ref="char:EOLhyphen"/>lain of the <hi>Tower</hi> of <hi>London.</hi>
+                  </p>
+                  <p>I do profeſs and declare my Religion in the general to be that which hath been truly and anciently delivered in the firſt Four General Councils; and in particular, my Belief is that true Faith of a Chriſtian briefly contained in thoſe three Creeds com<g ref="char:EOLhyphen"/>monly called <hi>The Apoſtles Creed, St. Athanaſius</hi>'s, and <hi>the Nicene Creeds:</hi> And I die a Member, and in the Communion of <hi>Chriſt</hi>'s Holy Catholick Church, hoping for Mercy through the alone Merits of the Paſſion of our Lord and Saviour <hi>Jeſus Chriſt.</hi>
+                  </p>
+                  <p>I do alſo confeſs and declare, as to the Crimes which I die for, I was no further concerned in the Libel, than as employed to give the King notice of what Libels or other Accuſations there were againſt him; and to this Intent, and no other, I endeavoured to get this Libel: which at length I did from Mr. <hi>Everard,</hi> all written under his own Hand, and carried it to Mrs. <hi>Wall,</hi> by whoſe means I conveyed all Matters of this or the like nature to the King. I told her I had a Buſineſs of great conſequence to acquaint the King with: But ſhe anſwer'd me, That my Lord <hi>Sunderland</hi> being out, there would be no Money had for Secret Service, and adviſed me to go to the Lord <hi>Clarendon</hi> or <hi>Hyde:</hi> But before I could do this, I was taken As for that part of the Libel which I left with <hi>Everard,</hi> as a Pledge to aſſure him I would not betray him, I received it of the Lord <hi>Howard:</hi> And the Money I received from the King, was for bringing a Libel cal<g ref="char:EOLhyphen"/>led <hi>The King <g ref="char:V">Ʋ</g>nvail'd,</hi> and the <hi>Lady Portſmouths Articles.</hi> I call God to witneſs. I never had a Farthing Charity from the King.</p>
+                  <p>I do further confeſs and declare, That the Lord <hi>Howard</hi> told me of a Deſign to ſeize upon the King's Perſon, and to carry him into the City, and there detain him till he had condeſcended to their Deſires. <hi>Heyns</hi> and my ſelf were privy to this Deſign, and had ſeveral Meetings, with the Lord <hi>Howard;</hi> and as an En<g ref="char:EOLhyphen"/>couragement,
+<pb n="2" facs="tcp:105846:2"/>the Lord <hi>Howard</hi> aſſured us of breaking the Set<g ref="char:EOLhyphen"/>tlement of <hi>Ireland,</hi> taking off the Additional Revenue of the Biſhops, Forty nine Men, and Grantees, whoſe Eſtates were to be ſhar'd amongſt the Party.</p>
+                  <p>I do confeſs and declare, That while I was in <hi>Newgate,</hi> the Sheriffs, <hi>Bethel</hi> and <hi>Corniſh,</hi> came to me, with a Token from the Lord <hi>Howard,</hi> which I knew to be true, and brought Heads with them from <hi>Everard,</hi> wherein he accuſed me of being a Court-Emiſſary, or <hi>Yorkiſt,</hi> put on by the King to put the Libel into Proteſtants Houſes, to trepan them. But I declare upon my death I had no ſuch intent, nor do I know any ſuch thing. The Sheriffs likewiſe told me, I was to be tryed within three or four Days, that the People would proſecute me, and the Par<g ref="char:EOLhyphen"/>liament would Impeach me, and that nothing would ſave my Life but diſcovering the Popiſh Plot; and then the Sheriffs a<g ref="char:EOLhyphen"/>foreſaid gave me great Encouragement from my Lord <hi>Howard,</hi> that if I would declare that I believed ſo much of the Plot as amounted to the introducing the R. C. or if I could find out any that could Criminate the Queen, R. H. or make ſo much as a plauſible Story to confirm the Plot, that the Parliament would reſtore me to my Fathers Eſtate, with the Profits thereof ſince His Majeſties Reſtauration. I finding my ſelf in the con<g ref="char:EOLhyphen"/>dition I was, in <hi>Newgate,</hi> Fettered, Moneyleſs and Friendleſs, my Wife ready to Ly-in, without any ſubſiſtence, my Chil<g ref="char:EOLhyphen"/>dren in a miſerable condition, and muſt needs be in a worſe by my death, and I could ſee no other Refuge for life, but comply<g ref="char:EOLhyphen"/>ing with them; ſo, not with ambitious intent, but to ſave my life, I did comply. The Sheriffs brought Inſtructions, which they ſaid came from the Lords and Commons, who met that day in order to Addreſs to the King in my behalf (if I ſhould confirm the Inſtructions;) and they made uſe of the Lord <hi>Shafts<g ref="char:EOLhyphen"/>bury</hi>'s Name, and others, what Advantage I might have there<g ref="char:EOLhyphen"/>by. At the firſt I made a formal Story concerning the Plot, which was not prejudicial to any body, but moſt relating to ge<g ref="char:EOLhyphen"/>neral Heads known publickly; upon which Mr. <hi>Corniſh</hi> told me, Theſe were things cry'd about the Streets two years ago: I re<g ref="char:EOLhyphen"/>plyed, I could ſay no more. Mr. Sheriff ſaid, he was ſorry for me with all his heart, but thought I could ſay more if I would, and preſſed me hard to ſpeak to ſeveral Heads, unto which unleſs I ſpoke, he ſaid, there was no hopes of life; the Heads which I was to ſpeak to, is what the Examination taken by Sir <hi>Robert Clayton</hi> and Sir <hi>George Treby</hi> contains, and a great deal more that I did not ſay then, relating to the Queen, R. H. Earl of <hi>Danby,</hi> declaring <hi>French</hi> Penſioners, Lords <hi>Hallifax, Hyde, Clarendon, Ferverſham, Seymer,</hi> and others; the burning the Fleet, Forts and Governments in Popiſh hands, Meal-Tub-Plot, Prentices Plot, the Contrivance of the Libel on the Lady <hi>Portſmouth,</hi> be<g ref="char:EOLhyphen"/>ing a <hi>French</hi> Deſign to deſtroy Proteſtants. Theſe and many other Heads were brought to me by the Sheriffs.</p>
+                  <pb n="3" facs="tcp:105846:2"/>
+                  <p>I do further confeſs and declare, That Sir <hi>Robert Clayton</hi> and Sir <hi>George Treby</hi> coming to me to examine me, Sir <hi>Robert Clay<g ref="char:EOLhyphen"/>ton</hi> asked me <hi>what I could ſay concerning</hi> Godfrey's <hi>Murder?</hi> I anſwered, Something. He replied <hi>It may be</hi> I <hi>was in a Confuſion; recollect your ſelf.</hi> And what I ſaid concerning Father <hi>Patrick,</hi> was forced out of me, and what I ſaid concerning him is not true. Sir <hi>George Treby</hi> was with me three hours, or there bouts, and preſſed to ſay concerning <hi>Godfrey's</hi> Death: And ſaid, <hi>Unleſs I could ſpeak to that Murder, I could ſay nothing;</hi> Whereupon, I ſaid ſomething I had from others. He asked me <hi>if I could ſay no more?</hi> I replied, Is not this enough to ſave my Life? Am I not Rogue enough? The Recorder hereupon ſware, <hi>'Zourds, what were you ever but a Rogue?</hi> Then the Recorder ended upon the Heads of the Examination; which being done, he told me, <hi>All this would not ſave my Life, unleſs I would ſpeak to the</hi> Libel, <hi>which was a Court-trick; And it was not for nothing that</hi> I <hi>had been ſeen ſo often at the Lady</hi> Portſmouth's. The Lord <hi>Shaftsbury</hi> ſaid, <hi>You know more of theſe matters than any man.</hi> Sir <hi>George</hi> would have me ſpeak to the Conſult; that the <hi>Duke</hi> was at it, the Lords <hi>Bellaſis, Arundel</hi> and <hi>Powis</hi> were at it, <hi>You have ſeen them go to it at St</hi> James<hi>'s; without doubt they were there; Do you but ſay it, we have thoſe that will ſwear it.</hi>
+                  </p>
+                  <p>I do further declare and confeſs, That what I ſaid againſt the Queen and the Duke, I was put upon, in the matter of Sir <hi>Edmundbury Godfrey's</hi> Murder; And do further declare, That what I ſware againſt the Earl of <hi>Danby;</hi> the threatning words that were uttered I did (to the beſt of my remembrance) hear, but whom they concern'd I could not wel know, by what my Lord himſelf ſaid. And what <hi>de Puis</hi> told me concerning my Lord of <hi>Danby, I</hi> do believe was ſpoken out of ill will; And what I ſaid againſt him, was to ſtave off my Tryal till a Parliament; and they were the more deſirous to accuſe the Lord <hi>Danby</hi> of <hi>God<g ref="char:EOLhyphen"/>frey's</hi> Murder, becauſe the Crime of Murder is not inſerted in his Pardon. I am ſorry for what I ſaid againſt the Queen, his Royal Highneſs, and the Earl of <hi>Danby;</hi> I deſire God to forgive me the wrong I did them, and do heartily beg their Pardon.</p>
+                  <p>I do further declare and proteſt. That this Confeſſion and Declaration of mine, I own ſincerely, as a dying man, and not to ſave my Life; And <hi>I</hi> call God and all his Angels to witneſs the Truth of it, And <hi>I</hi> renounce Mercy at the Hands of God Al<g ref="char:EOLhyphen"/>mighty, if this be not true.</p>
+                  <p>And <hi>I</hi> do further declare and proteſt, as a dying man unto <hi>James Walmeſly, Edward Pattel</hi> and <hi>Mary Walmeſly,</hi> That I have made this Confeſſion and Declaration unto Dr. <hi>Hawkins,</hi> freely, and of my own voluntary accord, without any manner of promiſe made, or hops given me by him from the King of ſaving my Life by this Confeſſion; I having given him to underſtand beforehand they were matters of Conſequence, and ſuch as chiefly concern<g ref="char:EOLhyphen"/>ed the good of the King and Kingdom.</p>
+                  <pb n="4" facs="tcp:105846:3" rendition="simple:additions"/>
+                  <p>I give the Doctor my hearty Thanks for all his Prayers, Counſel and Charitable Offices he hath done me, and I pray God to bleſs him for ever for it. <hi>I</hi> forgive all the World, and deſire all the World to forgive me; And the Lord have mercy on my Soul.</p>
+                  <closer>
+                     <signed>Edward Fitz-Harys.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>This Proteſtation was made by</hi> Mr. Fitz-Harys, July 1. <hi>between the hours of</hi> 7 <hi>and</hi> 8 <hi>in the morning, in the preſence and hearing of us whoſe Names are here under-written.</hi>
+                     </p>
+                     <closer>
+                        <signed>James Wolmeſly, Edward Pattel, Mary Walmeſly.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <div type="testimony">
+               <p>I <hi>Do hereby declare, That</hi> Mr. Fitz-Harys, <hi>before he began to write any part of this Narrative, was, more than once, aſſured by me that there was no hope of his life, that I know of, whatever he ſhould ſay; nor of his Salvation, if he ſhould ſay any thing that he knew to be falſe: of which he being throughly ſenſible, and perfectly convinced, proceeded to write the Narrative aforeſaid. And I continuing to admoniſh him upon every point that was material, not to ſay anything but what was exactly true, he took occaſion, at ſeveral periods of his Narrative, to kneel down, and ſolemnly to Proteſt the Truth of every word therein contained. And this I again declare upon the Faith of a Chriſtian, and the word of a Miniſter of the Goſpel.</hi>
+               </p>
+               <closer>
+                  <signed>Francis Hawkins.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="speech">
+            <head>
+               <hi>Mr. Fitz-Harys</hi>'s Speech at his Execution.</head>
+            <p>GOod People, This Infamous kind of Death is much more irkſom to me, than Death it ſelf: Such a Judgment as this my Sins againſt God may juſtly bring upon me, and I do moſt humbly ſubmit unto it. But as to the Crimes which I now die for, I take God to witneſs, I was no further concerned in the Libel, than to diſcover to the King what Practiſes of that kind were againſt him, being employed for that end, though thoſe that employed me refuſed to do me Juſtice at my Tryal. And I call God to Witneſs, I never had a Farthing of Mony of the King in my life, but on the account of the like Service. And as to the Witneſſes that have Sworn againſt me, I do here ſolemnly declare, now at my Death, that I have not ſeen the <hi>French</hi> Ambaſſador ſince the beginning of the breaking out of the Plot, neither have I had any acquaintance with him. And as to his Confeſſor, I never ſpoke with him in my life; neither have I had any dealing, either directly or indirectly, in my life with them, though Sir <hi>William Waller</hi> and the reſt Swore moſt falſly to the contrary. And how like it is that the <hi>French</hi> Ambaſſador would give three thouſand Crowns for writing that Libel, I leave the world to Judge. What I might further declare, <hi>I</hi> have left with Doctor <hi>Hawkins.</hi> I for<g ref="char:EOLhyphen"/>give all the World, and do hope that God will forgive me. <hi>I</hi> beg the Prayers of all good People for a happy Paſſage into the other World.</p>
+            <closer>
+               <signed>Edw. Fitz-Harys.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Re-Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty.</hi> Anno <hi>DOM.</hi> 1681.</p>
+            <pb facs="tcp:105846:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
